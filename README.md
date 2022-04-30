@@ -1,2 +1,2 @@
-<img src='DionisDevBannerLow.png' alt="banner"></img>
+<img src='DionisDevBannerPurpleLow.png' alt="banner"></img>
 
